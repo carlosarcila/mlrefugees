@@ -5,6 +5,6 @@ For this, data from public opinion surveys (specifically 5 Eurobarometers betwee
 Subsequently, simulation was used to build synthetic populations (artificial populations) based on Eurostat census data (at the NUTS2 level) throughout Europe, to estimate the aggregate probabilities for each geographic region. 
 Specifically, the sociodemographic characteristics of 2,710,000 European citizens were simulated, corresponding to 10,000 in each of the 271 NUTS2.
 
-In this branch a query database is provided, in addition to interactive visualization maps, including comparative analysis between models, countries and regions, as well as longitudinal analysis of survey periods. 
+Here the Jupyter Notebooks for the generated synthetic populations and predictive models are provided, in addition to a longitudinal query database and interactive visualization maps, including comparative analysis between models, countries and regions, as well as longitudinal analysis of survey periods. 
 
 
